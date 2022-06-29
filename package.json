@@ -1,0 +1,15 @@
+{
+  "name": "ejswithjson",
+  "version": "1.0.0",
+  "description": "this is testing templating with json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Punit Bathija",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
